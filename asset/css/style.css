@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+}
+.cajas{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.caja{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid 2px black;
+}
+
+.gatitos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+
+}
+.card{
+    display: flex;
+    flex-direction: column;
+}
+.card img{
+    width: 283px;
+    height: 178px;
+}
+.boton{
+    text-align: center;
+}
+.conteiner{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.clave{
+    display: flex;
+    align-items: center;
+}
